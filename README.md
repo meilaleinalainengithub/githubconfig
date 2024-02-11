@@ -5,8 +5,6 @@
 
 - I’m currently learning **AI, ML, JS & HTML & CSS**
 
-- How to reach me **MeilaLeinaLainenWork@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
