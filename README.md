@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm MeilaLeinaLainen (MLL)!</h1>
-14 year old learning programming from Sweden.</h3>
+(unspecified age) year old learning programming from Sweden.</h3>
 
 - I’m currently working on [MeilaGPT](https://github.com/meilaleinalainengithub/MeilaGPT)
 
