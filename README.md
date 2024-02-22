@@ -1,7 +1,7 @@
 <h1 align="left">Hello, I'm MeilaLeinaLainen (MLL)!</h1>
 (unspecified age) year old learning programming from Sweden.</h3>
 
-- I’m currently working on Nothing
+- I’m currently working on [PC Logger](https://github.com/meilaleinalainengithub/PC-Logger)
 
 - I’m currently learning **AI, ML, JS & HTML & CSS**
 
