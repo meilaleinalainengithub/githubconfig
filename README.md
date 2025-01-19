@@ -10,8 +10,8 @@
 
 ### How to Reach Me
 
-- [Discord: meilaleinalainen](https://discordapp.com/users/820568093428285451)
-- [Email: meilaleinalainen@gmail.com](mailto:meilaleinalainen@gmail.com)
+- [Discord:](https://discordapp.com/users/820568093428285451) @meilaleinalainen
+- [Email:](mailto:meilaleinalainen@gmail.com) meilaleinalainen@gmail.com
 
 ---
 
