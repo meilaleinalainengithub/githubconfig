@@ -6,7 +6,7 @@
 ### Currently Working On
 
 - Eternally working on [MeilaLL](https://github.com/meilaleinalainengithub/MeilaLL)
-- Also making projects like: [Looting Mobs](https://github.com/meilaleinalainengithub/Looting-Mobs), or [Periodic Item Spawner](https://github.com/meilaleinalainengithub/Periodic-Item-Spawner)
+- Also making bad projects like: [Looting Mobs](https://github.com/meilaleinalainengithub/Looting-Mobs), or [Periodic Item Spawner](https://github.com/meilaleinalainengithub/Automated-Status)
 
 ### How to Reach Me
 
